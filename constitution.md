@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Article I - CLUB NAME](#article-i---club-name)
+- [Article I - WDC CLUB NAME](#article-i---club-name)
 - [Article II - PURPOSE](#article-ii---purpose)
 - [Article III - STATEMENT OF COMPLIANCE](#article-iii---statement-of-compliance)
 - [Article IV - NON-DISCRIMINATION STATEMENT](#article-iv---non-discrimination-statement)
