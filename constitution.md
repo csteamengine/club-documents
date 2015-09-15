@@ -101,9 +101,6 @@ In addition to their specific duties, all officers will have the following gener
 * Make final calls on club website decisions.
 * Merge pull requests to the WDC git repository.
 
-### Section 3: Term of Service
-The term of service for all officers will be one full year, from January to January.
-
 ### Section 4: Method of Election
 Elections will be managed through a majority vote system.
 
